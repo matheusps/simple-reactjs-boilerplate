@@ -1,7 +1,7 @@
 {
-    "name": "sql-systems",
+    "name": "simple-reactjs-starter",
     "version": "1.0.0",
-    "description": "SQL Systems App",
+    "description": "React Starter",
     "main": "client.js",
     "author": "Matheus P. Silva",
     "license": "MIT",

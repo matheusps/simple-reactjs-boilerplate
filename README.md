@@ -1,5 +1,5 @@
-# Personal Page
-SQL Systems
+# REACTJS Starter
+Starter featuring react, react router, bootstrap and sass.
 
 ### Tech
 Dependencies of this project:
