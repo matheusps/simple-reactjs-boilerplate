@@ -1,0 +1,9 @@
+#modules
+node_modules
+
+#macOS
+.DS_Store
+
+#build files
+src/client.css
+src/client.min.js
