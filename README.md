@@ -1,35 +1,26 @@
-# REACTJS Starter
-Starter featuring react, react router, bootstrap and sass.
+# Simple ReactJS Boilerplate
 
-### Tech
-Dependencies of this project:
-
+### Dependencies:
 * [ReactJS] - HTML enhanced for web apps!
-* [Webpack] - Module Bundler
-* [Bootstrap] - great UI boilerplate for modern web apps
+* [Webpack 4] - Module Bundler
 * [Babel] - Javascript compiler
 * [Sass] - CSS with superpowers
 
 ##### Build
 ```sh
-$ yarn install
-$ yarn run build
+$ yarn
+$ yarn build
 ```
 
-##### Develop
+##### Development
 ```sh
-$ yarn run dev
+$ yarn start
 ```
 
-##### Tip: Host Locally
-```sh
-$ yarn run dev --host `ifconfig | grep "inet " | grep -Fv 127.0.0.1 | awk '{print $2}'`
-```
+**use it, share it, love it.✌🏾**
 
 [//]: # (Reference links)
-   [matheus]: <https://github.com/matheusps>
-   [Bootstrap]: <https://v4-alpha.getbootstrap.com/>
    [ReactJS]: <https://reactjs.org/>
    [Sass]: <http://sass-lang.com/>
    [Babel]: <https://babeljs.io/>
-   [Webpack]: <https://webpack.js.org/>
+   [Webpack 4]: <https://webpack.js.org/>

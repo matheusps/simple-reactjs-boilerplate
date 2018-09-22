@@ -5,5 +5,5 @@ node_modules
 .DS_Store
 
 #build files
-src/client.css
-src/client.min.js
+/node_modules/
+/public/

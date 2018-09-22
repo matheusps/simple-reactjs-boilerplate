@@ -1,11 +1,17 @@
 /* ------------------------------------------------------------------------------
-    Template name
+    React Tutorial Boilerplate
 	Author: Matheus P. Silva
 	Author URI: github.com/matheusps
 	License: MIT
     Version: 1.0
 -------------------------------------------------------------------------------- */
-@import './styles/global';
 
-//Vendor
-@import "~bootstrap/scss/bootstrap";
+//Insert Global Styles
+body {
+	margin: 0px !important; 
+	padding: 0px !important;
+}
+
+//Import Your Styles
+@import '../node_modules//bulma/sass/utilities/_all.sass';
+@import '../node_modules/bulma//sass/base/_all.sass';
